@@ -1,0 +1,1 @@
+jdbc:mysql://db.cs.wwu.edu/CS330M     hollanz_writer     6YKRBQPq
